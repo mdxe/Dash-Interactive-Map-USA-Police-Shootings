@@ -1,6 +1,6 @@
 ## Dashboard with Dash
 
-Simple Dash/Python Dashboard where you can see the location of deadly shootings by police on a map by race or gender.
+Simple Dash/Python interactive map where you can see the location of deadly shootings by police on a map by race or gender.
 
 
 ## Usage
